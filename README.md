@@ -1,10 +1,10 @@
-# Screensharing 
+# Screensharing
 
 As part of our goal to offer great support, we often find that to solve/debug a particularly pressing issue or error, screensharing is a great way to get more hands on with the code/environment and have the student feel properly supported. That being said, treat screensharing as a last resort when working with students. If coverage is good enough on a shift (say 2+ learn-experts) and traffic allows it, experts can offer the student a screen-share to help resolve the issue (perhaps take turns throughout the shift being the 'on call expert' for screen-share). **Be sure to let the other experts know before hopping on a screen-share.**
 
-For the most part, use screenshares if a student is having workflow issues. Since the strategy to resolve these kinds of problems is just to fix them for the student, screensharing can let you do it faster if you're given more control. 
+For the most part, use screenshares if a student is having workflow issues. Since the strategy to resolve these kinds of problems is just to fix them for the student, screensharing can let you do it faster if you're given more control.
 
-If you do end up using screenshare for a conceptual problem or if you're debugging the studen't code, then keep it to 15 minutes. While screensharing, make it a clear walkthrough. Talk out loud, explain what you're doing and why you're doing it, and check every few minutes to make sure the student is following along and understands. 
+If you do end up using screenshare for a conceptual problem or if you're debugging the studen't code, then keep it to 15 minutes. While screensharing, make it a clear walkthrough. Talk out loud, explain what you're doing and why you're doing it, and check every few minutes to make sure the student is following along and understands.
 
 After Screen-sharing with a student, log the session <a href="https://docs.google.com/spreadsheets/d/1Op457HZ20h53xD4LnCPxKuWT1wgQ8hpnb8eoBxBJCEI/edit?ts=56fd5282#gid=0" target="_blank">here</a>
 
@@ -53,15 +53,6 @@ As of this writing, Learn does not programatically support screen sharing on Lin
 Enter their partner id in the field indicated below, and then enter their password when prompted. This will open up a remote desktop control session on both your and the user's computer.
 ![screen shot 2016-07-08 at 4 24 09 pm](https://cloud.githubusercontent.com/assets/5470676/16700513/7966e04e-4528-11e6-9521-2b306db0f0f7.png)
 
-### What is our stance on the TeamViewer hacks?
-If you aren't aware, there were reports TeamViewer was hacked a while ago. [Here is their official response to it.](https://www.teamviewer.com/en/company/press/statement-on-potential-teamviewer-hackers/) Please read it.
+## Resources
 
-The supposed hacks occured before we built TeamViewer based screen sharing into Learn. It was a conscientious decision to move forward TeamViewer despite the supposed hacks.
-
-Our official position is as follows:
-- To the extent of our, TeamViewer's and the public's knowledge, TeamViewer itself was not hacked. Rather, hackers found users' login info from less secure applications, and then tried those logins on TeamViewer accounts. Hackers took advantage of users having recycled login info across both TeamViewer and other applications to exploit their TeamViewer accounts.
-- TeamViewer is a best-in-class product for screen sharing and remote desktop control. Thus out of all the screen sharing and remote desktop control platforms out there, they are likely to have the maximal level of secruity.
-- Learn does not require you create a TeamViewer account to screen share with Experts and Instructors. As such, Learn users are not vulnerable to even the duplicate-password attack that existing TeamViewer users suffered.
-
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/learn-expert-screensharing'>Learn Expert Screensharing </a> on Learn.co and start learning to code for free.</p>
+https://github.com/flatiron-labs/learn-support/blob/master/screen-sharing.md
