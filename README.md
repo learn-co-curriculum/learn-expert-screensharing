@@ -55,6 +55,6 @@ Enter their partner id in the field indicated below, and then enter their passwo
 
 ## Resources
 
-https://github.com/flatiron-labs/learn-support/blob/master/screen-sharing.md
+- [Screensharing Info in Reference Guide](https://github.com/flatiron-labs/learn-support/blob/master/screen-sharing.md)
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/learn-expert-screensharing'>Screensharing</a> on Learn.co and start learning to code for free.</p>
