@@ -1,6 +1,6 @@
 # Screensharing
 
-As part of our goal to offer great support, we often find that to solve/debug a particularly pressing issue or error, screensharing is a great way to get more hands on with the code/environment and have the student feel properly supported. That being said, treat screensharing as a last resort when working with students. If coverage is good enough on a shift (say 2+ learn-experts) and traffic allows it, experts can offer the student a screen-share to help resolve the issue (perhaps take turns throughout the shift being the 'on call expert' for screen-share). **Be sure to let the other experts know before hopping on a screen-share.**
+As part of our goal to offer great support, we often find that to solve/debug a particularly pressing issue or error, screensharing is a great way to get more hands on with the code/environment and have the student feel properly supported. That being said, we don't want to do jump to these too quickly as it takes up a lot of time. If coverage is good enough on a shift (say 2+ learn-experts) and traffic allows it, experts can offer the student a screen-share to help resolve the issue (perhaps take turns throughout the shift being the 'on call expert' for screen-share). **Be sure to let the other experts know before hopping on a screen-share.**
 
 For the most part, use screenshares if a student is having workflow issues. Since the strategy to resolve these kinds of problems is just to fix them for the student, screensharing can let you do it faster if you're given more control.
 
@@ -56,3 +56,5 @@ Enter their partner id in the field indicated below, and then enter their passwo
 ## Resources
 
 https://github.com/flatiron-labs/learn-support/blob/master/screen-sharing.md
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/learn-expert-screensharing'>Screensharing</a> on Learn.co and start learning to code for free.</p>
