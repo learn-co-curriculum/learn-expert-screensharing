@@ -6,7 +6,7 @@ For the most part, use screenshares if a student is having workflow issues. Sinc
 
 If you do end up using screenshare for a conceptual problem or if you're debugging the studen't code, then keep it to 15 minutes. While screensharing, make it a clear walkthrough. Talk out loud, explain what you're doing and why you're doing it, and check every few minutes to make sure the student is following along and understands.
 
-After Screen-sharing with a student, log the session <a href="https://docs.google.com/spreadsheets/d/1Op457HZ20h53xD4LnCPxKuWT1wgQ8hpnb8eoBxBJCEI/edit?ts=56fd5282#gid=0" target="_blank">here</a>
+
 
 ### How to initiate a screenshare
 
@@ -46,12 +46,16 @@ Note: Both mics start muted. Make sure to un-mute your mic and the students!
 
 ####For users on Linux
 
-As of this writing, Learn does not programatically support screen sharing on Linux. When you click "Start Screenshare," nothing will happen on the user's end.  You'll need to give users [this link](TK: INSERT DOWNLOAD LINK) to download TeamViewer 11 on Linux, instruct them to open TeamViewer, and then give you their partner id and password.
+As of this writing, Learn does not programatically support screen sharing on Linux. When you click "Start Screenshare," nothing will happen on the user's end.  You'll need to give users <a href="https://download.teamviewer.com/download/teamviewer_i386.deb">this link</a> to download TeamViewer 11 on Linux, instruct them to open TeamViewer, and then give you their partner id and password.
 
->Note: If student gets an error that they have the wrong architechture and that they need i386, follow these instructions: https://github.com/flatiron-labs/learn-support/blob/master/environment-setup.md#error-wrong-architecture-i386
+>Note: If student gets an error that they have the wrong architechture and that they need i386, follow <a href="https://github.com/flatiron-labs/learn-support/blob/master/environment-setup.md#error-wrong-architecture-i386">these instructions</a>.
 
 Enter their partner id in the field indicated below, and then enter their password when prompted. This will open up a remote desktop control session on both your and the user's computer.
 ![screen shot 2016-07-08 at 4 24 09 pm](https://cloud.githubusercontent.com/assets/5470676/16700513/7966e04e-4528-11e6-9521-2b306db0f0f7.png)
+
+#### Logging A Screenshare
+
+Every screenshare should be logged.  For Learn Experts using Windows and Mac, the screenshare will be logged through the use of the "Start Screenshare" button.  If you (or the student) cannot connect via the automated method, you will have to log the screenshare manually.  After completing the screenshare, log the session <a href="https://docs.google.com/spreadsheets/d/1Op457HZ20h53xD4LnCPxKuWT1wgQ8hpnb8eoBxBJCEI/edit?ts=56fd5282#gid=0" target="_blank">here</a>.
 
 ## Resources
 
