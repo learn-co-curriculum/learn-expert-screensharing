@@ -4,15 +4,13 @@ As part of our goal to offer great support, we often find that to solve/debug a 
 
 For the most part, use screenshares if a student is having workflow issues. Since the strategy to resolve these kinds of problems is just to fix them for the student, screensharing can let you do it faster if you're given more control.
 
-If you do end up using screenshare for a conceptual problem or if you're debugging the studen't code, then keep it to 15 minutes. While screensharing, make it a clear walkthrough. Talk out loud, explain what you're doing and why you're doing it, and check every few minutes to make sure the student is following along and understands.
-
-After Screen-sharing with a student, log the session <a href="https://docs.google.com/spreadsheets/d/1Op457HZ20h53xD4LnCPxKuWT1wgQ8hpnb8eoBxBJCEI/edit?ts=56fd5282#gid=0" target="_blank">here</a>
+If you do end up using screenshare for a conceptual problem or if you're debugging the student's code, then keep it to 15 minutes. While screensharing, make it a clear walkthrough. Talk out loud, explain what you're doing and why you're doing it, and check every few minutes to make sure the student is following along and understands.
 
 ### How to initiate a screenshare
 
 We use TeamViewer for screenshares on Windows, Mac, and Linux. Screen sharing with students on Windows and Mac works differently than users on Linux. Please make sure you have [downloaded and installed](https://www.teamviewer.com/en/download/mac/) it prior to initiating a screensharing session. The product assumes Experts have it downloaded and installed.
 
-####For users on Windows and Mac
+#### For users on Windows and Mac
 
 [Click here for Linux Instructions](#for-users-on-linux)
 
@@ -24,7 +22,7 @@ If the student already has TeamViewer installed, they'll receive a prompt asking
 
 This is the prompt the student would see ^
 
-If the student does not already have TeamViewer installed, they'll receive a series of prompts in their chat window guiding them through installing it and then joining your session. They'll also be linked to <a href="https://github.com/learn-co/help-center/blob/master/Installing%20Teamviewer.md" target="_blank"> these instructions </a> when prompted to install TeamViewer. The following flow shows approximately what a user sees. Note that when the user hits Join, they'll immediately get dropped into the session you opened.
+If the student does not already have TeamViewer installed, they'll receive a series of prompts in their chat window guiding them through installing it and then joining your session. They'll also be linked to [these instructions](https://github.com/learn-co/help-center/blob/master/Installing%20Teamviewer.md) when prompted to install TeamViewer. The following flow shows approximately what a user sees. Note that when the user hits Join, they'll immediately get dropped into the session you opened.
 
 ![screensharemodal2](https://cloud.githubusercontent.com/assets/5470676/16700327/723d3a9e-4527-11e6-8eaa-2908ced3daee.png)
 
@@ -42,16 +40,20 @@ Once the screen share is started, follow these steps to start audio:
 
 ![startAudio](http://i.giphy.com/l0HlTy3DacrbE6vsc.gif)
 
-Note: Both mics start muted. Make sure to un-mute your mic and the students!
+Note: Both mics start muted. Make sure to un-mute your mic and the student's!
 
-####For users on Linux
+#### For users on Linux
 
-As of this writing, Learn does not programatically support screen sharing on Linux. When you click "Start Screenshare," nothing will happen on the user's end.  You'll need to give users [this link](TK: INSERT DOWNLOAD LINK) to download TeamViewer 11 on Linux, instruct them to open TeamViewer, and then give you their partner id and password.
+As of this writing, Learn does not programatically support screen sharing on Linux. When you click "Start Screenshare," nothing will happen on the user's end. You'll need to give users [this link](https://www.teamviewer.com/en/download/linux/) to download TeamViewer 11 on Linux, instruct them to open TeamViewer, and then give you their partner id and password.
 
->Note: If student gets an error that they have the wrong architechture and that they need i386, follow these instructions: https://github.com/flatiron-labs/learn-support/blob/master/environment-setup.md#error-wrong-architecture-i386
+> Note: If student gets an error that they have the wrong architecture and that they need i386, follow [these instructions](https://github.com/flatiron-labs/learn-support/blob/master/environment-setup.md#error-wrong-architecture-i386).
 
 Enter their partner id in the field indicated below, and then enter their password when prompted. This will open up a remote desktop control session on both your and the user's computer.
 ![screen shot 2016-07-08 at 4 24 09 pm](https://cloud.githubusercontent.com/assets/5470676/16700513/7966e04e-4528-11e6-9521-2b306db0f0f7.png)
+
+#### Logging A Screenshare
+
+Every screenshare should be logged. For Learn Experts using Windows and Mac, the screenshare will be logged through the use of the "Start Screenshare" button. If you (or the student) cannot connect via the automated method, you will have to log the screenshare manually. After completing the screenshare, log the session [here](https://docs.google.com/spreadsheets/d/1Op457HZ20h53xD4LnCPxKuWT1wgQ8hpnb8eoBxBJCEI/edit?ts=56fd5282#gid=0).
 
 ## Resources
 
