@@ -10,6 +10,8 @@ If you do end up using screenshare for a conceptual problem or if you're debuggi
 
 We use TeamViewer for screenshares on Windows, Mac, and Linux. Screen sharing with students on Windows and Mac works differently than users on Linux. Please make sure you have [downloaded and installed](https://www.teamviewer.com/en/download/mac/) it prior to initiating a screensharing session. The product assumes Experts have it downloaded and installed.
 
+**If you are manually setting up a screen share, you will need to get the student's Teamviewer ID and password. DO NOT ASK FOR THIS THROUGH ASK A QUESTION.** It is your obligation as the Learn Expert to **tell the student before hand _not_ to send this info through AAQ**. The recommended ways of sending this info is through learn chat (learn.co/lobby) or email. If a student already sent the info through AAQ, have them right click (or hover next to the password) to regenerate it. Anyone with the ID and password can take full control of a student's computer and AAQ is a public chat, so this clearly isn't the place to transfer that information. 
+
 #### For users on Windows and Mac
 
 [Click here for Linux Instructions](#for-users-on-linux)
