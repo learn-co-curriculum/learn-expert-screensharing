@@ -4,13 +4,7 @@ We do a lot of screen sharing on one on one support shifts because we believe it
 
 ### How to Screen Share with Zoom
 
-Open up Zoom on your computer (login) and start a meeting with 'Start without video' option. Once the meeting starts, you can send the student the link to the meeting in AAQ. Once they join, you can lock the meeting so more students are _not_ able to hop in (this isn't usually a problem, but it's nice to know the option exists!). Click the Manage Participants button at the bottom of the window.
-
-![Lock meeting step 1](https://s3.amazonaws.com/learn-experts/screen-share-zoom-lock-meeting1.png)
-
-This will open up a panel on the right where you can click on More and then Lock Meeting. 
-
-![Lock meeting step 2](https://s3.amazonaws.com/learn-experts/screen-share-zoom-lock-meeting2.png)
+Open up Zoom on your computer (login) and start a meeting with 'Start without video' option. Once the meeting starts, you can send the student the link to the meeting in AAQ.
 
 Now you can ask them to share their screen with the big button at the bottom that says Share Screen. Once you see their screen, you can request access to gain control by using the menu at the top of the screen share. 
 
@@ -25,9 +19,9 @@ The easiest way to initiate a screen share is by creating a meeting (_without_ w
 
 You'll want to make sure that you are in a relativley quiet area so it's easy for the student to hear you.
 
-Try and keep screen shares to 15 to 20min max (especially if there are other students waiting in the screen share queue). You can let the student know that you'll line them up for more help if they're not done or that they can resolve this chat and open a new one if they need help later on. 
+Keep screen shares to 15 to 20min max (especially if there are other students waiting in the screen share queue). You can let the student know that you'll line them up for more help if they're not done or that they can resolve this chat and open a new one if they need help later on and leave them with resources to keep going. 
 
-Try and keep screen share sessions from turning into pair programing. Once you helped the student with the test/error they were stuck on, see if you can get them to move on on their own. We're here to help students get unstuck on tests that they have already been working on, not just pair on tests with them. 
+Try and keep screen share sessions from turning into pair programing. Once you helped the student with the test/error they were stuck on, see if you can get them to move on, on their own. We're here to help students get unstuck on tests that they have already been working on, not just pair on tests with them. 
 
 ## Resources
 
