@@ -21,12 +21,8 @@ You'll want to make sure that you are in a relativley quiet area so it's easy fo
 
 Keep screen shares to 15 to 20min max (especially if there are other students waiting in the screen share queue). You can let the student know that you'll line them up for more help if they're not done or that they can resolve this chat and open a new one if they need help later on and leave them with resources to keep going. 
 
-Try and keep screen share sessions from turning into pair programing. Once you helped the student with the test/error they were stuck on, see if you can get them to move on, on their own. We're here to help students get unstuck on tests that they have already been working on, not just pair on tests with them.
+Once you helped the student with the test/error they were stuck on, see if you can get them to move on, on their own. We're here to help students get unstuck on tests that they have already been working on, not just pair on tests with them.
 
 **Video Example** [Technical Coach helps student in 5 minutes](https://youtu.be/zzf-cd71-2U)
-
-## Resources
-
-- [Screensharing Info in Reference Guide](https://github.com/flatiron-labs/learn-support/blob/master/screen-sharing.md)
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/learn-expert-screensharing'>Screensharing</a> on Learn.co and start learning to code for free.</p>
