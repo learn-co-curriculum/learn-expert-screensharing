@@ -4,7 +4,7 @@ We do a lot of pair programming on one on one support shifts because we believe 
 
 ### How to Pair Program with Zoom
 
-Open up Zoom on your computer (login) and start a meeting with 'Start without video' option. Once the meeting starts, you can send the student the link to the meeting in AAQ.
+Open up Zoom on your computer (login) and start a meeting with the 'Start without video' option. Once the meeting starts, you can send the student the link to the meeting in AAQ.
 
 Now you can ask them to share their screen with the big button at the bottom that says Share Screen. Once you see their screen, you can request access to gain control by using the menu at the top of the screen share.
 
